@@ -13,6 +13,6 @@
   </a>
 </p>
 
-
+<a href="https://www.imood.com/users/needyourblood"><img src="https://moods.imood.com/display/uname-needyourblood/fg-000000/bg-76c75b/imood.gif" alt="The current mood of needyourblood at www.imood.com" border="0"></a>
 
 

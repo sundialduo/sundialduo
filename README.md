@@ -18,5 +18,5 @@
 
 here is my aura
 <p align="center">
-  <img src="https://files.catbox.moe/ssqe1h.png"/>
+  <img src="https://files.catbox.moe/oezhbw.png"/>
 </p>
